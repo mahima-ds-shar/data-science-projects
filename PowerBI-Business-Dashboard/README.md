@@ -29,3 +29,13 @@ This project demonstrates the creation of an interactive business dashboard usin
 - Power BI (.pbix)
 - Dashboard Screenshots
 - Report
+
+## Dashboard Preview
+
+![Dashboard Page 1](Dashboard-page1.png)
+
+![Dashboard Page 2](Dashboard-page2.png)
+
+![Dashboard Page 3](Dashboard-page#.png)
+
+![Dashboard Page 4](Dashboard-page4.png)
